@@ -22,7 +22,8 @@ I'm a PhD Candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 - Performed anomaly detection on accelerometry and gravitation data to model physical activity intensity.
 
 **Statistical Analyst** @ Eli Lilly and Company (Jan 2022 – Sep 2023)
-- Supported 7 immunology studies with dataset creation and management, and report generation using SAS and R programming
+- Supported immunology studies with dataset creation and report generation using SAS and R programming
+- Supported development of in-house automation tools on Shiny
 - Contributed to functional onboarding of new hires and mentoring graduate freshers.
 
 ## Grants and Scholarships
