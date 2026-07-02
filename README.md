@@ -3,7 +3,7 @@ I'm a PhD Candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 - A smart bait dispenser for oral bait vaccination of the Tasmanian devil (_Sarcophilus harrisii_) against the devil facial tumour disease
 - A remote animal microchip scanner (RAMS) to distantly study native wild individuals in their natural habitat
 
-#### Technical skills: TinyML (MicroPython/C/C++); Microcontroller and Single-board computer development; Statistics; Python, R, and SAS programming 
+### Contact me via [Email](prithul.chaturvedi@utas.edu.au) or [LinkedIn](https://www.linkedin.com/in/prithulchaturvedi/)
 
 ## Education
 - **PhD in Medical Engineering** @ University of Tasmania (Ongoing)
