@@ -8,7 +8,7 @@ I'm a PhD Candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 ## Education
 - **PhD in Medical Engineering** @ University of Tasmania (Ongoing)
 - **MSc in Biostatistics** @ Manipal Academy of Higher Education (2022)
-- **BSC in Computer Science, Mathematics, Statistics** @ Christ University (2020)
+- **BSc in Computer Science, Mathematics, Statistics** @ Christ University (2020)
 
 ## Work Experience
 
@@ -27,14 +27,14 @@ I'm a PhD Candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 - Contributed to functional onboarding of new hires and mentoring graduate freshers.
 
 ## Grants and Scholarships
-- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** ($24,985) "Deployment of the novel remote animal microchip scanner (RAMS) to remotely study Tasmanian devils (_Sarcophilus harrisii_) at the Forestier Peninsula" (2026-2028)
-- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** ($53,169) "Species-Selective AI Trapping to Monitor and Mitigate Devil Facial Tumour Disease" (2026-2028)
-- **Menzies Institute for Medical Research Top-up Scholarship** ($7,500 p. a.) (2025-2027)
+- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** (A$24,985) "Deployment of the novel remote animal microchip scanner (RAMS) to remotely study Tasmanian devils (_Sarcophilus harrisii_) at the Forestier Peninsula" (2026-2028)
+- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** (A$53,169) "Species-Selective AI Trapping to Monitor and Mitigate Devil Facial Tumour Disease" (2026-2028)
+- **Menzies Institute for Medical Research Top-up Scholarship** (A$7,500 p. a.) (2025-2027)
 - **Tasmania Graduate Research Scholarship** (2023-2027)
 
 
 
-## Published Research
+## Publications and Preprints
 - <u>Chaturvedi, P.</u>, Flies, A. S., Han, S. C., & Connelly, W. M. (2026). A study on edge devices for image classification of the Tasmanian devil (Sarcophilus harrisii) for vaccine delivery. Ecological Solutions and Evidence, 7, e70216. https://doi.org/10.1002/2688-8319.70216
 - <u>Chaturvedi, P.</u>, & Pokhriyal, H. (2025). Parameter estimation of the four-parameter Harris extended Weibull distribution with applications to real-life data. arXiv preprint arXiv:2509.26162. 
 https://doi.org/10.48550/arXiv.2509.26162
