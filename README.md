@@ -1,9 +1,14 @@
 # Researcher
+I'm a PhD Candidate in the [Wild Immunology Lab](https://wildimmunity.com/people/) at Menzies Institute for Medical Research, University of Tasmania. Based out of Nipaluna/Hobart (Lutruwita/Tasmania), we are currently working on developing generalised ecological field devices to remotely monitor native wildlife:
+- A smart bait dispenser for oral bait vaccination of the Tasmanian devil (_Sarcophilus harrisii_) against the devil facial tumour disease
+- A remote animal microchip scanner (RAMS) to distantly study native wild individuals in their natural habitat
+
+#### Technical skills: TinyML (MicroPython/C/C++); Microcontroller and Single-board computer development; Statistics; Python, R, and SAS programming 
 
 ## Education
-- PhD in Medical Engineering @ University of Tasmania (2023 - ongoing)
-- MSc in Biostatistics @ Manipal Academy of Higher Education (2020 - 2022)
-- BSC in Computer Science, Mathematics, Statistics @ Christ University (2027 - 2020)
+- **PhD in Medical Engineering** @ University of Tasmania (Ongoing)
+- **MSc in Biostatistics** @ Manipal Academy of Higher Education (2022)
+- **BSC in Computer Science, Mathematics, Statistics** @ Christ University (2020)
 
 ## Work Experience
 
@@ -19,3 +24,25 @@
 **Statistical Analyst** @ Eli Lilly and Company (Jan 2022 – Sep 2023)
 - Supported 7 immunology studies with dataset creation and management, and report generation using SAS and R programming
 - Contributed to functional onboarding of new hires and mentoring graduate freshers.
+
+## Grants and Scholarships
+- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** ($24,985) "Deployment of the novel remote animal microchip scanner (RAMS) to remotely study Tasmanian devils (_Sarcophilus harrisii_) at the Forestier Peninsula" (2026-2028)
+- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** ($53,169) "Species-Selective AI Trapping to Monitor and Mitigate Devil Facial Tumour Disease" (2026-2028)
+- **Menzies Institute for Medical Research Top-up Scholarship** ($7,500 p. a.) (2025-2027)
+- **Tasmania Graduate Research Scholarship** (2023-2027)
+
+
+
+## Published Research
+- <u>Chaturvedi, P.</u>, Flies, A. S., Han, S. C., & Connelly, W. M. (2026). A study on edge devices for image classification of the Tasmanian devil (Sarcophilus harrisii) for vaccine delivery. Ecological Solutions and Evidence, 7, e70216. https://doi.org/10.1002/2688-8319.70216
+- <u>Chaturvedi, P.</u>, & Pokhriyal, H. (2025). Parameter estimation of the four-parameter Harris extended Weibull distribution with applications to real-life data. arXiv preprint arXiv:2509.26162. 
+https://doi.org/10.48550/arXiv.2509.26162
+
+## Media 
+- ABC Science - News article: [Why bird flu poses a high risk to many Australian native mammals](https://www.abc.net.au/news/science/2026-06-24/native-marsupials-bird-flu-risk/106537852)
+- BBC Unexpected Elements – Podcast feature: [Science down under](https://www.bbc.co.uk/programmes/w3ct72x8)
+- The Scientist – Article: [A Hell of a Disease: Can Science Save the Tasmanian Devil?](https://www.the-scientist.com/a-hell-of-a-disease-can-science-save-the-tasmanian-devil-73740)
+
+## Conferences
+- 5th Wild and Comparative Immunology Consortium 2026	(Oral presentation)
+- The TinyML4D Academic Network 17th Show and Tell 2025 (Invited speaker)
