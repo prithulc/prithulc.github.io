@@ -1,9 +1,9 @@
 # Researcher
-I'm a PhD Candidate in the [Wild Immunology Lab](https://wildimmunity.com/people/) at Menzies Institute for Medical Research, University of Tasmania. Based out of Nipaluna/Hobart (Lutruwita/Tasmania), we are currently working on developing generalised ecological field devices to remotely monitor native wildlife:
+I'm a PhD candidate in the [Wild Immunology Lab](https://wildimmunity.com/people/) at Menzies Institute for Medical Research, University of Tasmania. Based out of Nipaluna/Hobart (Lutruwita/Tasmania), we are currently working on developing generalised ecological field devices to remotely monitor native wildlife:
 - A smart bait dispenser for oral bait vaccination of the Tasmanian devil (_Sarcophilus harrisii_) against the devil facial tumour disease
 - A remote animal microchip scanner (RAMS) to distantly study native wild individuals in their natural habitat
 
-### Contact me via [Email](prithul.chaturvedi@utas.edu.au) or [LinkedIn](https://www.linkedin.com/in/prithulchaturvedi/)
+### Contact me via [Email](mailto:prithul.chaturvedi@utas.edu.au) or [LinkedIn](https://www.linkedin.com/in/prithulchaturvedi/)
 
 ## Education
 - **PhD in Medical Engineering** @ University of Tasmania (Ongoing)
@@ -13,18 +13,18 @@ I'm a PhD Candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 ## Work Experience
 
 **Casual Academic Staff** @ University of Tasmania	(Sep 2024 – ongoing)
-- Teaching assistant for Statistics using R Programming module.
-- Test and Tag Technician for the Medical Science Precinct, University of Tasmania.
+- Teaching assistant for Statistics using R programming
+- Test and Tag Technician for the Medical Science Precinct, University of Tasmania
 
 **Machine Learning Researcher** @ Fortifyedge Inc (Feb 2024 – Jun 2024)
-- Created dashboard to display noise data from Boeing Aircraft Factory collected on Samsung wearables for Worker Safety
-- Modelled hearing loss prediction based on demographics and objective exposure to noise.
-- Performed anomaly detection on accelerometry and gravitation data to model physical activity intensity.
+- Created dashboard to display noise data from Boeing Aircraft Factory collected on Samsung wearables for worker safety
+- Modelled hearing loss prediction based on demographics and objective exposure to noise
+- Performed anomaly detection on accelerometry and gravitation data to model physical activity intensity
 
 **Statistical Analyst** @ Eli Lilly and Company (Jan 2022 – Sep 2023)
 - Supported immunology studies with dataset creation and report generation using SAS and R programming
 - Supported development of in-house automation tools on Shiny
-- Contributed to functional onboarding of new hires and mentoring graduate freshers.
+- Functional onboarding of new hires and mentoring graduate freshers
 
 ## Grants and Scholarships
 - **Dr Eric Guiler Tasmanian Devil HDR Research Grant** (A$24,985) "Deployment of the novel remote animal microchip scanner (RAMS) to remotely study Tasmanian devils (_Sarcophilus harrisii_) at the Forestier Peninsula" (2026-2028)
