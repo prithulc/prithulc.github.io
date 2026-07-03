@@ -6,31 +6,31 @@ I'm a PhD candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 ### Contact me via [Email](mailto:prithul.chaturvedi@utas.edu.au) or [LinkedIn](https://www.linkedin.com/in/prithulchaturvedi/)
 
 ## Education
-- **PhD in Medical Engineering** @ University of Tasmania (Ongoing)
-- **MSc in Biostatistics** @ Manipal Academy of Higher Education (2022)
-- **BSc in Computer Science, Mathematics, Statistics** @ Christ University (2020)
+- **PhD in Medical Engineering** @ University of Tasmania [Ongoing]
+- **MSc in Biostatistics** @ Manipal Academy of Higher Education [2022]
+- **BSc in Computer Science, Mathematics, Statistics** @ Christ University [2020]
 
 ## Work Experience
 
-**Casual Academic Staff** @ University of Tasmania	(Sep 2024 – ongoing)
+**Casual Academic Staff** @ University of Tasmania	[Sep 2024 – ongoing]
 - Teaching assistant for Statistics using R programming
 - Test and Tag Technician for the Medical Science Precinct, University of Tasmania
 
-**Machine Learning Researcher** @ Fortifyedge Inc (Feb 2024 – Jun 2024)
+**Machine Learning Researcher** @ Fortifyedge Inc [Feb 2024 – Jun 2024]
 - Created dashboard to display noise data from Boeing Aircraft Factory collected on Samsung wearables for worker safety
 - Modelled hearing loss prediction based on demographics and objective exposure to noise
 - Performed anomaly detection on accelerometry and gravitation data to model physical activity intensity
 
-**Statistical Analyst** @ Eli Lilly and Company (Jan 2022 – Sep 2023)
+**Statistical Analyst** @ Eli Lilly and Company [Jan 2022 – Sep 2023]
 - Supported immunology studies with dataset creation and report generation using SAS and R programming
 - Supported development of in-house automation tools on Shiny
 - Functional onboarding of new hires and mentoring graduate freshers
 
 ## Grants and Scholarships
-- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** (A$24,985) "Deployment of the novel remote animal microchip scanner (RAMS) to remotely study Tasmanian devils (_Sarcophilus harrisii_) at the Forestier Peninsula" (2026-2028)
-- **Dr Eric Guiler Tasmanian Devil HDR Research Grant** (A$53,169) "Species-Selective AI Trapping to Monitor and Mitigate Devil Facial Tumour Disease" (2026-2028)
-- **Menzies Institute for Medical Research Top-up Scholarship** (A$7,500 p. a.) (2025-2027)
-- **Tasmania Graduate Research Scholarship** (2023-2027)
+- **Dr Eric Guiler Tasmanian Devil Research HDR Grant** (A$24,985) "Deployment of the novel remote animal microchip scanner (RAMS) to remotely study Tasmanian devils (_Sarcophilus harrisii_) at the Forestier Peninsula" [2026-2028]
+- **Dr Eric Guiler Tasmanian Devil Research Grant** (A$53,169) "Species-Selective AI Trapping to Monitor and Mitigate Devil Facial Tumour Disease" [2026-2028]
+- **Menzies Institute for Medical Research Top-up Scholarship** (A$7,500 p. a.) [2025-2027]
+- **Tasmania Graduate Research Scholarship** [2023-2027]
 
 
 
@@ -45,5 +45,6 @@ https://doi.org/10.48550/arXiv.2509.26162
 - The Scientist – Article: [A Hell of a Disease: Can Science Save the Tasmanian Devil?](https://www.the-scientist.com/a-hell-of-a-disease-can-science-save-the-tasmanian-devil-73740)
 
 ## Conferences
-- 5th Wild and Comparative Immunology Consortium 2026	(Oral presentation)
+- 5th Wild and Comparative Immunology Consortium 2026	(Oral presentation, 2nd prize)
 - The TinyML4D Academic Network 17th Show and Tell 2025 (Invited speaker)
+- 4th Wild and Comparative Immunology Consortium 2024 (Oral presentation)
