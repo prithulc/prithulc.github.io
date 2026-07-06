@@ -45,6 +45,7 @@ https://doi.org/10.48550/arXiv.2509.26162
 - The Scientist – Article: [A Hell of a Disease: Can Science Save the Tasmanian Devil?](https://www.the-scientist.com/a-hell-of-a-disease-can-science-save-the-tasmanian-devil-73740)
 
 ## Conferences
+- The Australian Mammal Society and The Australasian Bat Society Joint Conference 2026 (Oral presentation)
 - 5th Wild and Comparative Immunology Consortium 2026	(Oral presentation, 2nd prize)
 - The TinyML4D Academic Network 17th Show and Tell 2025 (Invited speaker)
 - 4th Wild and Comparative Immunology Consortium 2024 (Oral presentation)
