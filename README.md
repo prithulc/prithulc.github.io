@@ -40,6 +40,7 @@ I'm a PhD candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 https://doi.org/10.48550/arXiv.2509.26162
 
 ## Media 
+- The Conversation - News article: [Iconic Australian mammals could be at real risk from bird flu. Could we protect them using vaccines in baits?](https://doi.org/10.64628/AA.9q77cexrw)
 - ABC Science - News article: [Why bird flu poses a high risk to many Australian native mammals](https://www.abc.net.au/news/science/2026-06-24/native-marsupials-bird-flu-risk/106537852)
 - BBC Unexpected Elements – Podcast feature: [Science down under](https://www.bbc.co.uk/programmes/w3ct72x8)
 - The Scientist – Article: [A Hell of a Disease: Can Science Save the Tasmanian Devil?](https://www.the-scientist.com/a-hell-of-a-disease-can-science-save-the-tasmanian-devil-73740)
