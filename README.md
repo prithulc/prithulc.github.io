@@ -34,7 +34,7 @@ I'm a PhD candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 
 
 ## Publications and Preprints [[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZxO77u0AAAAJ&view_op=list_works)]
-- <u>Chaturvedi, P.</u>, Flies, A. S., Han, S. C., & Connelly, W. M. (2026). A study on edge devices for image classification of the Tasmanian devil (Sarcophilus harrisii) for vaccine delivery. Ecological Solutions and Evidence, 7, e70216. [https://doi.org/10.1002/2688-8319.70216](https://doi.org/10.1002/2688-8319.70216)
+- <u>Chaturvedi, P.</u>, Flies, A. S., Han, S. C., & Connelly, W. M. (2026). A study on edge devices for image classification of the Tasmanian devil (_Sarcophilus harrisii_) for vaccine delivery. Ecological Solutions and Evidence, 7, e70216. [https://doi.org/10.1002/2688-8319.70216](https://doi.org/10.1002/2688-8319.70216)
 - <u>Chaturvedi, P.</u>, & Pokhriyal, H. (2025). Parameter estimation of the four-parameter Harris extended Weibull distribution with applications to real-life data. arXiv preprint arXiv:2509.26162. [https://doi.org/10.48550/arXiv.2509.26162](https://doi.org/10.48550/arXiv.2509.26162)
 
 ## Media 
