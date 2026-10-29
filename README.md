@@ -34,7 +34,7 @@ I'm a PhD candidate in the [Wild Immunology Lab](https://wildimmunity.com/people
 
 
 ## Publications and Preprints [[Google Scholar](https://scholar.google.com/citations?hl=en&user=ZxO77u0AAAAJ&view_op=list_works)]
-- <u>Chaturvedi, P.</u>, Connelly, W. M., Lennard, T., Ong, C. E. B., Smyser, T. J., & Flies, A. S. (2026). A Smart Bait Dispenser with Real-time Monitoring for Species-Specific Bait Delivery. bioRxiv, 2026.2010.2025.761189. [https://doi.org/10.64898/2026.10.25.761189](https://doi.org/10.64898/2026.10.25.761189)
+- <u>Chaturvedi, P.</u>, Connelly, W. M., Lennard, T., Ong, C. E. B., Smyser, T. J., & Flies, A. S. (2026). A smart bait dispenser with real-time monitoring for species-specific bait delivery. bioRxiv, 2026.2010.2025.761189. [https://doi.org/10.64898/2026.10.25.761189](https://doi.org/10.64898/2026.10.25.761189)
 - <u>Chaturvedi, P.</u>, Flies, A. S., Han, S. C., & Connelly, W. M. (2026). A study on edge devices for image classification of the Tasmanian devil (_Sarcophilus harrisii_) for vaccine delivery. Ecological Solutions and Evidence, 7, e70216. [https://doi.org/10.1002/2688-8319.70216](https://doi.org/10.1002/2688-8319.70216)
 - <u>Chaturvedi, P.</u>, & Pokhriyal, H. (2025). Parameter estimation of the four-parameter Harris extended Weibull distribution with applications to real-life data. arXiv preprint arXiv:2509.26162. [https://doi.org/10.48550/arXiv.2509.26162](https://doi.org/10.48550/arXiv.2509.26162)
 
